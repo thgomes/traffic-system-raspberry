@@ -1,0 +1,19 @@
+{
+  "execution_time": 0,
+  "main": {
+    "west_count": 0,
+    "east_count": 0,
+    "east_speeds": [],
+    "west_speeds": []
+  },
+  "aux": {
+    "north_count": 0,
+    "south_count": 0,
+    "north_speeds": [],
+    "south_speeds": []
+  },
+  "violations": {
+    "red_light": 0,
+    "limit_speed": 0
+  }
+}
